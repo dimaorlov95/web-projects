@@ -12,3 +12,4 @@
 | 4              | Hidden search widget   | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/hidden_search_widget)   | [Live Page](https://dimaorlov95.github.io/web-projects/hidden_search_widget/)   |
 | 5              | Blurry Loading         | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/blurry_loading)         | [Live Page](https://dimaorlov95.github.io/web-projects/blurry_loading/)         |
 | 6              | Scroll Animation       | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/scroll_animation)       | [Live Page](https://dimaorlov95.github.io/web-projects/scroll_animation/)       |
+| 7              | Split landing page     | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/split_landing_page)     | [Live Page](https://dimaorlov95.github.io/web-projects/split_landing_page/)     |
