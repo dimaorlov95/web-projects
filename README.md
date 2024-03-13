@@ -15,3 +15,4 @@
 | 7              | Split landing page        | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/split_landing_page)        | [Live Page](https://dimaorlov95.github.io/web-projects/split_landing_page/)        |
 | 8              | Login form wave animation | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/login_form_wave_animation) | [Live Page](https://dimaorlov95.github.io/web-projects/login_form_wave_animation/) |
 | 9              | Sound board               | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/sound_board)               | [Live Page](https://dimaorlov95.github.io/web-projects/sound_board/)               |
+| 9              | Dad jokes (API)           | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/dad_jokes)                 | [Live Page](https://dimaorlov95.github.io/web-projects/dad_jokes/)                 |
