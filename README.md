@@ -17,3 +17,4 @@
 | 9              | Sound board               | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/sound_board)               | [Live Page](https://dimaorlov95.github.io/web-projects/sound_board/)               |
 | 10             | Dad jokes (API)           | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/dad_jokes)                 | [Live Page](https://dimaorlov95.github.io/web-projects/dad_jokes/)                 |
 | 11             | Event Key Code            | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/event_key_codes)           | [Live Page](https://dimaorlov95.github.io/web-projects/event_key_codes/)           |
+| 12             | FAQ Boxes                 | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/faq_boxes)                 | [Live Page](https://dimaorlov95.github.io/web-projects/faq_boxes/)                 |
