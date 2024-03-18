@@ -20,3 +20,4 @@
 | 12             | FAQ Boxes                 | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/faq_boxes)                 | [Live Page](https://dimaorlov95.github.io/web-projects/faq_boxes/)                 |
 | 13             | Random Choice Picker      | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/random_choice_picker)      | [Live Page](https://dimaorlov95.github.io/web-projects/random_choice_picker/)      |
 | 14             | Animated Navigation       | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/animated_navigation)       | [Live Page](https://dimaorlov95.github.io/web-projects/animated_navigation/)       |
+| 14             | Incrementing Counter      | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/icrementing_counter)       | [Live Page](https://dimaorlov95.github.io/web-projects/icrementing_counter)        |
