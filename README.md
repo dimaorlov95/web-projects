@@ -24,3 +24,4 @@
 | 16             | Drink Water App           | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/drink_water)               | [Live Page](https://dimaorlov95.github.io/web-projects/drink_water)                |
 | 17             | Movie App (API)           | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/movie_application)         | [Live Page](https://dimaorlov95.github.io/web-projects/movie_application)          |
 | 18             | Background Slider         | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/background_slider)         | [Live Page](https://dimaorlov95.github.io/web-projects/background_slider)          |
+| 19             | Light/Dark Mode Clock     | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/clock)                     | [Live Page](https://dimaorlov95.github.io/web-projects/clock)                      |
