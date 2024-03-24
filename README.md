@@ -27,3 +27,4 @@
 | 19             | Light/Dark Mode Clock     | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/clock)                     | [Live Page](https://dimaorlov95.github.io/web-projects/clock)                      |
 | 20             | Button Style Animation    | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/button_style_animation)    | [Live Page](https://dimaorlov95.github.io/web-projects/button_style_animation)     |
 | 21             | Drag&Drop                 | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/drag_and_drop)             | [Live Page](https://dimaorlov95.github.io/web-projects/drag_and_drop)              |
+| 22             | Drawing App               | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/drawing_app)               | [Live Page](https://dimaorlov95.github.io/web-projects/drawing_app)                |
