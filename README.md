@@ -29,3 +29,4 @@
 | 21             | Drag&Drop                 | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/drag_and_drop)             | [Live Page](https://dimaorlov95.github.io/web-projects/drag_and_drop)              |
 | 22             | Drawing App               | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/drawing_app)               | [Live Page](https://dimaorlov95.github.io/web-projects/drawing_app)                |
 | 23             | Kinetic Loader            | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/kinetic_loader)            | [Live Page](https://dimaorlov95.github.io/web-projects/kinetic_loader)             |
+| 24             | Content Placeholder       | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/content_placeholder)       | [Live Page](https://dimaorlov95.github.io/web-projects/content_placeholder)        |
