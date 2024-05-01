@@ -31,3 +31,4 @@
 | 23             | Kinetic Loader            | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/kinetic_loader)            | [Live Page](https://dimaorlov95.github.io/web-projects/kinetic_loader)             |
 | 24             | Content Placeholder       | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/content_placeholder)       | [Live Page](https://dimaorlov95.github.io/web-projects/content_placeholder)        |
 | 25             | Simon Game                | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/simon_game)                | [Live Page](https://dimaorlov95.github.io/web-projects/simon_game)                 |
+| 26             | Sticky Navbar             | [Source Code](https://github.com/dimaorlov95/web-projects/tree/main/sticky_navbar)             | [Live Page](https://dimaorlov95.github.io/web-projects/sticky_navbar)              |
